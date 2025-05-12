@@ -26,7 +26,8 @@
 
 - 📄 Resume [https://drive.google.com/file/d/1FBctGW7DGvyRW0TVgROoygJHypyNgDyi/view?usp=sharing](https://drive.google.com/file/d/1FBctGW7DGvyRW0TVgROoygJHypyNgDyi/view?usp=sharing)
 
- ⚡ Fun fact -**Data Analysis & Visualization 
+ ⚡ Fun fact 
+ -**Data Analysis & Visualization 
 - Extracting insights from datasets using charts and graphs.
 - Coding & Problem-Solving
 - Writing programs to solve real-world computational challenges.
