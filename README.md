@@ -12,10 +12,6 @@
 
 - 🌱 I’m currently learning **Data Analyst**
 
-- 🔭 I’m currently working on [JOB DESCRIPTION](https://github.com/yashsarin/JOB-DESCRIPTION)
-
-- 🔭 I’m currently working on [YES BANK STOCK PRICE PREDICTION](https://github.com/yashsarin/SRM-IST-MACHINE-LEARNING-PROJECT)
-
 - 👨‍💻 All of my projects are available at [https://github.com/yashsarin](https://github.com/yashsarin)
 
 - 📝LinkedIn profile [linkedin.com/in/yash-sarin-040a60262](linkedin.com/in/yash-sarin-040a60262)
@@ -23,6 +19,8 @@
 - 💬 Ask me about **Python (Pandas, NumPy, Matplotlib, TensorFlow, Kera’s, OPENCV, Sklearn, Seaborn.), SQL, Excel, HTML, CSS, Data Structure.**
 
 - 📫 How to reach me **yash.sarin.ys@gmail.com**
+  
+- 📱 Contact me **7906006760**
 
 - 📄 Resume [https://drive.google.com/file/d/1FBctGW7DGvyRW0TVgROoygJHypyNgDyi/view?usp=sharing](https://drive.google.com/file/d/1FBctGW7DGvyRW0TVgROoygJHypyNgDyi/view?usp=sharing)
 
