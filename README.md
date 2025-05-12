@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [JOB ANALYSIS](https://github.com/yashsarin/JOB-ANALYSIS-PORTAL)
+- 🔭 I’m currently working on [ANALYSt Project]
 
 - 🌱 I’m currently learning **Data Analyst**
 
@@ -26,7 +26,14 @@
 
 - 📄 Resume [https://drive.google.com/file/d/1FBctGW7DGvyRW0TVgROoygJHypyNgDyi/view?usp=sharing](https://drive.google.com/file/d/1FBctGW7DGvyRW0TVgROoygJHypyNgDyi/view?usp=sharing)
 
-- ⚡ Fun fact **Data Analysis & Visualization – Extracting insights from datasets using charts and graphs. • Coding & Problem-Solving – Writing programs to solve real-world computational challenges. • Reading Tech Blogs – Staying updated with AI, ML, and data trends • Web Scraping & Data Collection – Extracting structured data from websites for analysis.**
+- ⚡ Fun fact -**Data Analysis & Visualization 
+- Extracting insights from datasets using charts and graphs.
+- Coding & Problem-Solving
+- Writing programs to solve real-world computational challenges.
+- Reading Tech Blogs
+- Staying updated with AI, ML, and data trends
+- Web Scraping & Data Collection
+- Extracting structured data from websites for analysis.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
