@@ -1,6 +1,6 @@
 ## Hi Guyzzz👋
 <p align="center">
-  <img src="file:///C:/Users/yashs/OneDrive/Desktop/YASH/P/YS.jpg" alt="Yash Sarin" width="200" style="border-radius: 50%;" />
+  <img src="https://github.com/yashsarin/yashsarin/blob/main/src/12.png?raw=true" alt="Yash Sarin" width="200" style="border-radius: 50%;" />
 </p>
 <h1 align="center">Hi 👋, I'm YASH SARIN</h1>
 <h3 align="center">I am an analytical and adaptable data enthusiast with expertise in machine learning, statistical analysis, and data visualization. Proficient in Python, SQL, and Power BI, I am passionate about leveraging AI to extract insights and drive data-driven decisions. As a proactive learner and team player, I blend technical expertise with problem-solving skills to enhance business outcomes.</h3>
