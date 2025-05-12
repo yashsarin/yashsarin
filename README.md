@@ -1,4 +1,7 @@
 ## Hi Guyzzz👋
+<p align="center">
+  <img src="file:///C:/Users/yashs/OneDrive/Desktop/YASH/P/YS.jpg" alt="Yash Sarin" width="200" style="border-radius: 50%;" />
+</p>
 <h1 align="center">Hi 👋, I'm YASH SARIN</h1>
 <h3 align="center">I am an analytical and adaptable data enthusiast with expertise in machine learning, statistical analysis, and data visualization. Proficient in Python, SQL, and Power BI, I am passionate about leveraging AI to extract insights and drive data-driven decisions. As a proactive learner and team player, I blend technical expertise with problem-solving skills to enhance business outcomes.</h3>
 
@@ -25,14 +28,14 @@
 - 📄 Resume [https://drive.google.com/file/d/1FBctGW7DGvyRW0TVgROoygJHypyNgDyi/view?usp=sharing](https://drive.google.com/file/d/1FBctGW7DGvyRW0TVgROoygJHypyNgDyi/view?usp=sharing)
 
  ⚡ Fun fact 
- -**Data Analysis & Visualization 
+ -Data Analysis & Visualization 
 - Extracting insights from datasets using charts and graphs.
 - Coding & Problem-Solving
 - Writing programs to solve real-world computational challenges.
 - Reading Tech Blogs
 - Staying updated with AI, ML, and data trends
 - Web Scraping & Data Collection
-- Extracting structured data from websites for analysis.**
+- Extracting structured data from websites for analysis.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
