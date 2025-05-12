@@ -19,7 +19,7 @@
 
 - 📝LinkedIn profile [linkedin.com/in/yash-sarin-040a60262](linkedin.com/in/yash-sarin-040a60262)
 
-- 💬 Ask me about **Python (Pandas, NumPy, Matplotlib, TensorFlow, Kera’s, OPENCV, Sklearn, Seaborn.), SQL, Excel, HTML, CSS, Data Structure.**
+- 💬 Ask me about :**Python (Pandas, NumPy, Matplotlib, TensorFlow, Kera’s, OPENCV, Sklearn, Seaborn.), SQL, Excel, HTML, CSS, Data Structure.**
 
 - 📫 How to reach me **yash.sarin.ys@gmail.com**
   
