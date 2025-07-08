@@ -25,7 +25,7 @@
   
 - 📱 Contact me **7906006760**
 
-- 📄 Resume [https://drive.google.com/file/d/1FBctGW7DGvyRW0TVgROoygJHypyNgDyi/view?usp=sharing](https://drive.google.com/file/d/1FBctGW7DGvyRW0TVgROoygJHypyNgDyi/view?usp=sharing)
+- 📄 Resume https://drive.google.com/file/d/10YdgQkEBzbTjFBP5o0XL8PtYv-AYaLLW/view?usp=sharing 
 
  ⚡ Fun fact 
  -Data Analysis & Visualization 
