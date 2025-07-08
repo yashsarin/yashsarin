@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on [ANALYST PROJECT]
 
-- 🌱 I’m currently learning **Data Analyst**
+- 🌱 I’m currently learning **Data Analyst** & **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yashsarin](https://github.com/yashsarin)
 
