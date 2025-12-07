@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [ANALYST PROJECT]
+- 🔭 I’m currently working on [MACHINE LEARNING & ANALYST PROJECT]
 
 - 🌱 I’m currently learning **Data Analyst** & **Machine Learning**
 
@@ -25,7 +25,7 @@
   
 - 📱 Contact me **7906006760**
 
-- 📄 Resume https://drive.google.com/file/d/10YdgQkEBzbTjFBP5o0XL8PtYv-AYaLLW/view?usp=sharing 
+- 📄 Resume https://drive.google.com/file/d/1pRomMy7BUBlAEt2No2ExrbElbkNIzol9/view?usp=sharing
 
  ⚡ Fun fact 
  -Data Analysis & Visualization 
