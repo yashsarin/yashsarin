@@ -13,8 +13,6 @@
 
 - 🔭 I’m currently working on [MACHINE LEARNING & ANALYST PROJECT]
 
-- 🌱 I’m currently learning **Data Analyst** & **Machine Learning**
-
 - 👨‍💻 All of my projects are available at [https://github.com/yashsarin](https://github.com/yashsarin)
 
 - 📝LinkedIn profile [linkedin.com/in/yash-sarin-040a60262](linkedin.com/in/yash-sarin-040a60262)
@@ -25,7 +23,7 @@
   
 - 📱 Contact me **7906006760**
 
-- 📄 Resume https://drive.google.com/file/d/1pRomMy7BUBlAEt2No2ExrbElbkNIzol9/view?usp=sharing
+- 📄 Resume https://drive.google.com/file/d/1sXbWkk4Kdr8sGOsVnEtMRIlK9tTQSvzm/view?usp=sharing
 
  ⚡ Fun fact 
  -Data Analysis & Visualization 
