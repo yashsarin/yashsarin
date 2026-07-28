@@ -1,52 +1,271 @@
-## Hi Guyzzz👋
+# Hi Guyzzz 👋
+
 <p align="center">
-  <img src="https://github.com/yashsarin/yashsarin/blob/main/src/12.png?raw=true" alt="Yash Sarin" width="200" style="border-radius: 50%;" />
+  <img src="https://github.com/yashsarin/yashsarin/blob/main/src/12.png?raw=true" alt="Yash Sarin" width="220"/>
 </p>
-<h1 align="center">Hi 👋, I'm YASH SARIN</h1>
-<h3 align="center">I am an analytical and adaptable data enthusiast with expertise in machine learning, statistical analysis, and data visualization. Proficient in Python, SQL, and Power BI, I am passionate about leveraging AI to extract insights and drive data-driven decisions. As a proactive learner and team player, I blend technical expertise with problem-solving skills to enhance business outcomes.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashsarin&label=Profile%20views&color=0e75b6&style=flat" alt="yashsarin" /> </p>
+<h1 align="center">Hi 👋, I'm Yash Sarin</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashsarin" alt="yashsarin" /></a> </p>
+<h3 align="center">
+AI/ML Engineer | Data Analyst | Data Science Enthusiast
+</h3>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="center">
+I am an analytical and adaptable data enthusiast with expertise in Machine Learning,
+Statistical Analysis, and Data Visualization. Proficient in Python, SQL, Power BI,
+and AI technologies, I enjoy transforming raw data into actionable insights and
+building intelligent solutions for real-world problems.
+</p>
 
-- 🔭 I’m currently working on [MACHINE LEARNING & ANALYST PROJECT]
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/yashsarin](https://github.com/yashsarin)
+## 👨‍💻 About Me
 
-- 📝LinkedIn profile [linkedin.com/in/yash-sarin-040a60262](linkedin.com/in/yash-sarin-040a60262)
+- 🔭 I’m currently working on **Machine Learning & Data Analytics Projects**
+- 🌱 I’m currently learning **Deep Learning, Generative AI, and Large Language Models (LLMs)**
+- 👯 I’m looking to collaborate on **AI, ML, Data Science, and Open Source Projects**
+- 💬 Ask me about **Python, SQL, Power BI, Machine Learning, Data Analysis, Data Visualization, Computer Vision**
+- 📫 Reach me at **yash.sarin.ys@gmail.com**
+- 📱 Contact: **+91 7906006760**
+- 📍 Location: **Noida, India**
+- ⚡ Fun Fact: **I enjoy solving real-world problems using AI and Data.**
 
-- 💬 Ask me about :**Python (Pandas, NumPy, Matplotlib, TensorFlow, Kera’s, OPENCV, Sklearn, Seaborn.), SQL, Excel, HTML, CSS, Data Structure.**
+---
 
-- 📫 How to reach me **yash.sarin.ys@gmail.com**
-  
-- 📱 Contact me **7906006760**
+## 🌐 Portfolio
 
-- 📄 Resume https://drive.google.com/file/d/1sXbWkk4Kdr8sGOsVnEtMRIlK9tTQSvzm/view?usp=sharing
+- 💻 GitHub: https://github.com/yashsarin
+- 📄 Resume: https://drive.google.com/file/d/1sXbWkk4Kdr8sGOsVnEtMRIlK9tTQSvzm/view?usp=sharing
+- 💼 LinkedIn: https://www.linkedin.com/in/yash-sarin-040a60262/
+- 📊 Kaggle: https://www.kaggle.com/yashsarin
 
- ⚡ Fun fact 
- -Data Analysis & Visualization 
-- Extracting insights from datasets using charts and graphs.
-- Coding & Problem-Solving
-- Writing programs to solve real-world computational challenges.
-- Reading Tech Blogs
-- Staying updated with AI, ML, and data trends
-- Web Scraping & Data Collection
-- Extracting structured data from websites for analysis.
+---
 
-<h3 align="left">Connect with me:</h3>
+## 🌐 Connect with Me
+
 <p align="left">
-<a href="https://www.linkedin.com/in/yash-sarin-040a60262?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BO4VlKQbIQ6W9hRAEGroY6w%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/yash-sarin-040a60262" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/yashsarin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/yashsarin" height="30" width="40" /></a>
-<a href="https://www.instagram.com/yash_sarin3012?utm_source=qr&igsh=MWU0OGM1cDE1MmR6bw== " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/yash_sarin3012?utm_source=qr&igsh=mwu0ogm1cde1mmr6bw==" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yash-sarin-040a60262/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" width="35"/>
+</a>
+
+<a href="https://www.kaggle.com/yashsarin" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="35" width="35"/>
+</a>
+
+<a href="https://www.instagram.com/yash_sarin3012/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="35" width="35"/>
+</a>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashsarin&show_icons=true&locale=en&layout=compact" alt="yashsarin" /></p>
+# 💻 Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashsarin&show_icons=true&locale=en" alt="yashsarin" /></p>
+<p align="left">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashsarin&" alt="yashsarin" /></p>
+<a href="https://www.python.org">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+</a>
+
+<a href="https://www.cprogramming.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45"/>
+</a>
+
+<a href="https://www.w3schools.com/cpp/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+</a>
+
+<a href="https://react.dev/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>
+</a>
+
+<a href="https://nodejs.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45"/>
+</a>
+
+<a href="https://www.mongodb.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45"/>
+</a>
+
+<a href="https://www.mysql.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
+</a>
+
+<a href="https://pandas.pydata.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/>
+</a>
+
+<a href="https://numpy.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45"/>
+</a>
+
+<a href="https://matplotlib.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="45"/>
+</a>
+
+<a href="https://scikit-learn.org/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45"/>
+</a>
+
+<a href="https://opencv.org/">
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="45"/>
+</a>
+
+<a href="https://www.tensorflow.org/">
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="45"/>
+</a>
+
+<a href="https://pytorch.org/">
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="45"/>
+</a>
+
+<a href="https://git-scm.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
+</a>
+
+<a href="https://www.postman.com/">
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45"/>
+</a>
+
+<a href="https://powerbi.microsoft.com/">
+<img src="https://img.icons8.com/color/48/power-bi.png" width="45"/>
+</a>
+
+<a href="https://www.tableau.com/">
+<img src="https://img.icons8.com/color/48/tableau-software.png" width="45"/>
+</a>
+
+</p>
+
+---
+
+# 🚀 Skills
+
+- Python
+- SQL
+- Machine Learning
+- Deep Learning
+- Data Analysis
+- Data Visualization
+- Power BI
+- Tableau
+- Excel
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- TensorFlow
+- PyTorch
+- OpenCV
+- Scikit-Learn
+- HTML
+- CSS
+- JavaScript
+- React
+- Node.js
+- MongoDB
+- Git
+- REST APIs
+
+---
+
+# 📌 Featured Projects
+
+### 🤖 AI Powered Payment Gateway
+Fraud Detection using Machine Learning with Flask, Next.js, Tailwind CSS and Python.
+
+---
+
+### 📊 Banking Risk Analysis
+Power BI Dashboard with SQL and Machine Learning for Loan Risk Prediction.
+
+---
+
+### ❤️ Cardiovascular Disease Prediction
+Machine Learning project for predicting heart disease risk using healthcare datasets.
+
+---
+
+### 💊 Medicine Recommendation System
+Recommendation engine using Decision Tree and Random Forest.
+
+---
+
+### 🎥 YouTube AI Assistant
+RAG based chatbot using LangChain, Ollama and LLMs.
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=yashsarin&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashsarin&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yashsarin&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=yashsarin&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashsarin&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 📈 Profile Views
+
+<p align="left">
+
+<img src="https://komarev.com/ghpvc/?username=yashsarin&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
+
+---
+
+## ⚡ Interests
+
+- 🤖 Artificial Intelligence
+- 📊 Data Analytics
+- 📈 Business Intelligence
+- 📚 Reading Tech Blogs
+- 🌐 Web Scraping
+- 🧠 Machine Learning
+- 💻 Open Source
+- 🚀 Learning New Technologies
+
+---
+
+<h3 align="center">
+⭐ If you like my work, consider giving my repositories a Star!
+</h3>
